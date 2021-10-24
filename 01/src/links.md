@@ -1,0 +1,1 @@
+- [world oil consumption](https://www.iea.org/data-and-statistics/charts/world-oil-supply-and-demand-1971-2020)
