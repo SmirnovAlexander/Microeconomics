@@ -26,11 +26,11 @@ Tasks on microeconomics course
 
 [Costs analysis](slides/05_costs_analysis.pdf)
 
-- [2.1](02/)
+- [2.1](02/markets/)
 
     - analyze markets
 
-- [2.2](02/)
+- [2.2](02/costs/)
 
     - analyze costs on fast food restaraunt opening
 
@@ -44,10 +44,10 @@ Tasks on microeconomics course
 
 [Monopoly](slides/08_monopoly.pdf)
 
-- [3.1](03/)
+- [3.1](03/monopoly/)
 
     - analyze monopoly
 
-- [3.2](03/)
+- [3.2](03/tasks/)
 
     - find microeconomic tasks w/ solutions
