@@ -34,7 +34,6 @@ Tasks on microeconomics course
 
     - analyze costs on fast food restaraunt opening
 
-
 ## Homework 3
 07.11.21
 
@@ -51,3 +50,12 @@ Tasks on microeconomics course
 - [3.2](03/tasks/)
 
     - find microeconomic tasks w/ solutions
+
+## Homework 4
+14.11.21
+
+[Invest analysis basics](slides/09_invest_analysis_basics.pdf)
+
+- [3.1](04/)
+
+    - analyze investments to oil company
